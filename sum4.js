@@ -28,8 +28,18 @@
  */
 var fourSum = function(nums, target) {
   let rtn = [];
+  let len = nums.length;
   nums.sort((a, b) => a - b);
   for (let i = 0; i < nums.length - 3; ) {
+    let min = nums[i] + nums[i + 1] + nums[i + 2] + nums[i + 3];
+    if (min > target) {
+      break;
+    }
+    let max = nums[i] + nums[len - 1] + nums[len - 2] + nums[len - 3];
+    if (max < target) {
+      while (nums[i] === nums[++i]) {}
+      continue;
+    }
     for (let j = i + 1; j < nums.length - 2; ) {
       let start = j + 1;
       let end = nums.length - 1;
