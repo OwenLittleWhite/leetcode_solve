@@ -7,3 +7,7 @@
 ## 哈希
 
 - [有效的数独](./valid-sudoku.js)
+
+## 二分法
+
+- [搜索插入位置](./search-insert-position.js)
