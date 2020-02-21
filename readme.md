@@ -15,3 +15,5 @@
 ## 回溯算法
 
 - [组合总和](./combination-sum.js)
+
+- [括号生成](./generate-parentheses.js)
