@@ -17,3 +17,7 @@
 - [组合总和](./combination-sum.js)
 
 - [括号生成](./generate-parentheses.js)
+
+## 字符串
+
+- [实现 strStr()](./implement-strstr.js)
