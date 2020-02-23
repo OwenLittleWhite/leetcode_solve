@@ -21,3 +21,5 @@
 ## 字符串
 
 - [实现 strStr()](./implement-strstr.js)
+
+- [外观数列](./count-and-say.js)
