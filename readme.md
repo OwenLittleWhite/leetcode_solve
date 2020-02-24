@@ -23,3 +23,5 @@
 - [实现 strStr()](./implement-strstr.js)
 
 - [外观数列](./count-and-say.js)
+
+- [最后一个单词的长度](./length-of-last-word.js)
