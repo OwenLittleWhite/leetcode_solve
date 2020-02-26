@@ -29,3 +29,5 @@
 ## 数组
 
 - [加一](./plus-one.js)
+
+- [合并区间](./merge-intervals.js)
