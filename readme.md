@@ -26,6 +26,8 @@
 
 - [最后一个单词的长度](./length-of-last-word.js)
 
+- [翻转字符串里的单词](./reverse-words-in-a-string.js)
+
 ## 数组
 
 - [加一](./plus-one.js)
