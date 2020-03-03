@@ -38,6 +38,8 @@
 
 - [两数之和 II-输入有序数组](./two-sum-ii-input-array-is-sorted.js)
 
+- [合并排序的数组](./sorted-merge-lcci.js)
+
 ## 栈
 
 - [最小栈](./min-stack.js)
