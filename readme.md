@@ -51,3 +51,7 @@
 ## 广度优先算法
 
 - [腐烂的橘子](./rotting-oranges.js)
+
+## 数学
+
+- [分糖果2](./distribute-candies-to-people.js)
