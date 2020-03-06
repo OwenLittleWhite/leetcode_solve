@@ -55,3 +55,5 @@
 ## 数学
 
 - [分糖果2](./distribute-candies-to-people.js)
+
+- [和为s的连续正数序列](./he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.js)
