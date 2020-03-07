@@ -44,6 +44,8 @@
 
 - [最小栈](./min-stack.js)
 
+- [队列的最大值](./dui-lie-de-zui-da-zhi-lcof.js)
+
 ## 排序
 
 - [最大数](./largest-number.js)
