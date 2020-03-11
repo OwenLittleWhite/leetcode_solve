@@ -34,6 +34,7 @@
 
 - [合并区间](./merge-intervals.js)
 
+- [将数组分成和相等的三个部分](./partition-array-into-three-parts-with-equal-sum.js)
 ## 双指针
 
 - [两数之和 II-输入有序数组](./two-sum-ii-input-array-is-sorted.js)
