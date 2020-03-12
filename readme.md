@@ -61,6 +61,8 @@
 
 - [和为s的连续正数序列](./he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.js)
 
+- [字符串的最大公因子](./greatest-common-divisor-of-strings.js)
+
 ## 动态规划
 
 - [零钱兑换](./coin-change.js)
