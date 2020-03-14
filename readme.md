@@ -20,6 +20,8 @@
 
 - [括号生成](./generate-parentheses.js)
 
+- [最长上升子序列](./longest-increasing-subsequence.js)
+
 ## 字符串
 
 - [实现 strStr()](./implement-strstr.js)
