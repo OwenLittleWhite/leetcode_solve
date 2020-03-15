@@ -59,6 +59,10 @@
 
 - [腐烂的橘子](./rotting-oranges.js)
 
+## 深度优先算法
+
+- [岛屿的最大面积](./max-area-of-island.js)
+
 ## 数学
 
 - [分糖果2](./distribute-candies-to-people.js)
