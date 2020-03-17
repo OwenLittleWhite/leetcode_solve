@@ -34,6 +34,8 @@
 
 - [字符串压缩](./compress-string-lcci.js)
 
+- [拼写单词](./find-words-that-can-be-formed-by-characters.js)
+
 ## 数组
 
 - [加一](./plus-one.js)
