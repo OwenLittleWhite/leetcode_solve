@@ -89,3 +89,7 @@
 ## 树
 
 - [二叉树的直径](./diameter-of-binary-tree.js)
+
+## 堆
+
+- [最小的k个数](./zui-xiao-de-kge-shu-lcof.js)
