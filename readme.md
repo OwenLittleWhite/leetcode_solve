@@ -80,6 +80,8 @@
 
 - [矩形重叠](./rectangle-overlap.js)
 
+- [水壶问题](./water-and-jug-problem.js)
+
 ## 动态规划
 
 - [零钱兑换](./coin-change.js)
