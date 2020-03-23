@@ -46,7 +46,8 @@
 
 - [将数组分成和相等的三个部分](./partition-array-into-three-parts-with-equal-sum.js)
 
-- [使数组唯一的最小增量](./)
+- [使数组唯一的最小增量](./minimum-increment-to-make-array-unique.js)
+
 ## 双指针
 
 - [两数之和 II-输入有序数组](./two-sum-ii-input-array-is-sorted.js)
@@ -96,3 +97,7 @@
 ## 堆
 
 - [最小的k个数](./zui-xiao-de-kge-shu-lcof.js)
+
+## 链表
+
+- [链表的中间结点](./middle-of-the-linked-list.js)
