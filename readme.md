@@ -90,6 +90,7 @@
 
 - [买卖股票的最佳时机](./best-time-to-buy-and-sell-stock.js)
 
+- [按摩师](./the-masseuse-lcci.js)
 ## 树
 
 - [二叉树的直径](./diameter-of-binary-tree.js)
