@@ -84,6 +84,8 @@
 
 - [水壶问题](./water-and-jug-problem.js)
 
+- [三维形体的表面积](./surface-area-of-3d-shape.js)
+
 ## 动态规划
 
 - [零钱兑换](./coin-change.js)
