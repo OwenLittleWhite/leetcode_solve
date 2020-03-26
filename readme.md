@@ -48,6 +48,8 @@
 
 - [使数组唯一的最小增量](./minimum-increment-to-make-array-unique.js)
 
+- [车的可用捕获量](./available-captures-for-rook.js)
+
 ## 双指针
 
 - [两数之和 II-输入有序数组](./two-sum-ii-input-array-is-sorted.js)
