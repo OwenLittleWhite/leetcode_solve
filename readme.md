@@ -88,6 +88,8 @@
 
 - [三维形体的表面积](./surface-area-of-3d-shape.js)
 
+- [卡牌分组](./x-of-a-kind-in-a-deck-of-cards.js)
+
 ## 动态规划
 
 - [零钱兑换](./coin-change.js)
