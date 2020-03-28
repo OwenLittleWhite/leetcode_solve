@@ -97,9 +97,11 @@
 - [买卖股票的最佳时机](./best-time-to-buy-and-sell-stock.js)
 
 - [按摩师](./the-masseuse-lcci.js)
+
 ## 树
 
 - [二叉树的直径](./diameter-of-binary-tree.js)
+- [单词的压缩编码](./short-encoding-of-words.js)
 
 ## 堆
 
