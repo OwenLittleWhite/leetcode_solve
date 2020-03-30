@@ -92,6 +92,8 @@
 
 - [卡牌分组](./x-of-a-kind-in-a-deck-of-cards.js)
 
+- [圆圈中最后剩下的数字](./yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js)
+
 ## 动态规划
 
 - [零钱兑换](./coin-change.js)
