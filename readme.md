@@ -66,6 +66,8 @@
 
 - [最大数](./largest-number.js)
 
+- [排序数组](./sort-an-array.js)
+
 ## 广度优先算法
 
 - [腐烂的橘子](./rotting-oranges.js)
