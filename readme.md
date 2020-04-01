@@ -16,6 +16,8 @@
 
 - [搜索插入位置](./search-insert-position.js)
 
+- [有效括号的嵌套深度](./maximum-nesting-depth-of-two-valid-parentheses-strings.js)
+
 ## 回溯算法
 
 - [组合总和](./combination-sum.js)
