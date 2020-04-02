@@ -52,6 +52,8 @@
 
 - [车的可用捕获量](./available-captures-for-rook.js)
 
+- [生命游戏](./game-of-life.js)
+
 ## 双指针
 
 - [两数之和 II-输入有序数组](./two-sum-ii-input-array-is-sorted.js)
