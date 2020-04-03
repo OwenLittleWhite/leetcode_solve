@@ -40,6 +40,8 @@
 
 - [拼写单词](./find-words-that-can-be-formed-by-characters.js)
 
+- [字符串转换整数 (atoi)](./string-to-integer-atoi.js)
+
 ## 数组
 
 - [加一](./plus-one.js)
