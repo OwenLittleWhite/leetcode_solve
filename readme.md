@@ -40,6 +40,8 @@
 
 - [拼写单词](./find-words-that-can-be-formed-by-characters.js)
 
+- [字符串转换整数 (atoi)](./string-to-integer-atoi.js)
+
 ## 数组
 
 - [加一](./plus-one.js)
@@ -51,6 +53,8 @@
 - [使数组唯一的最小增量](./minimum-increment-to-make-array-unique.js)
 
 - [车的可用捕获量](./available-captures-for-rook.js)
+
+- [生命游戏](./game-of-life.js)
 
 ## 双指针
 
