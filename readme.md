@@ -2,7 +2,7 @@
 
 ## 双指针法
 
-- []
+- [接雨水](./trapping-rain-water.js)
 
 ## 哈希
 
