@@ -122,3 +122,7 @@
 ## 链表
 
 - [链表的中间结点](./middle-of-the-linked-list.js)
+
+## 设计
+
+- [lfu缓存](./lfu-cache.js)
