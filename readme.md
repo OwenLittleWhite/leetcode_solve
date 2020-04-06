@@ -110,6 +110,8 @@
 
 - [按摩师](./the-masseuse-lcci.js)
 
+- [编辑距离](./edit-distance.js)
+
 ## 树
 
 - [二叉树的直径](./diameter-of-binary-tree.js)
