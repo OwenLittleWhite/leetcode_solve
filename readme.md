@@ -56,6 +56,8 @@
 
 - [生命游戏](./game-of-life.js)
 
+- [旋转矩阵](./rotate-matrix-lcci.js)
+
 ## 双指针
 
 - [两数之和 II-输入有序数组](./two-sum-ii-input-array-is-sorted.js)
