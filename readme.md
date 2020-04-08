@@ -58,8 +58,6 @@
 
 - [旋转矩阵](./rotate-matrix-lcci.js)
 
-- [机器人的运动范围](./ji-qi-ren-de-yun-dong-fan-wei-lcof.js)
-
 ## 双指针
 
 - [两数之和 II-输入有序数组](./two-sum-ii-input-array-is-sorted.js)
@@ -83,6 +81,8 @@
 - [腐烂的橘子](./rotting-oranges.js)
 
 - [地图分析](./as-far-from-land-as-possible.js)
+
+- [机器人的运动范围](./ji-qi-ren-de-yun-dong-fan-wei-lcof.js)
 
 ## 深度优先算法
 

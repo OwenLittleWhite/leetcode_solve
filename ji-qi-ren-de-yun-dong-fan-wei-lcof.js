@@ -27,35 +27,48 @@
  * @param {number} k
  * @return {number}
  */
-var movingCount = function (m, n, k) {
-	let cnt = 0;
-	let arr = [];
-	let victor = [
-		[0, 1],
-		[0, -1],
-		[1, 0],
-		[-1, 0],
-	];
-	for (let i = 0; i < m; i++) {
-        arr[i] = [];
-		for (let j = 0; j < n; j++) {
-			let _i = i;
-			let sum = 0;
-			while (_i) {
-				sum += _i % 10;
-				_i = parseInt(_i / 10);
+var movingCount = function(m, n, k) {
+  let victors = [
+    [0, 1],
+    [0, -1],
+    [1, 0],
+    [-1, 0]
+  ];
+  let cnt = 0;
+  let map = new Map();
+  let queue = [[0, 0]];
+  while (queue.length) {
+    let temp = queue.shift();
+    let key = temp.join("-");
+    if (!map.get(key)) {
+      let i = temp[0];
+      let j = temp[1];
+      let _i = i;
+      let sum = 0;
+      while (_i) {
+        sum += _i % 10;
+        _i = parseInt(_i / 10);
+      }
+      let _j = j;
+      while (_j) {
+        sum += _j % 10;
+        _j = parseInt(_j / 10);
+      }
+      if (sum <= k) {
+        cnt++;
+        for (let p = 0; p < victors.length; p++) {
+          let victor = victors[p];
+          let pointX = victor[0] + i;
+          let pointY = victor[1] + j;
+          if (pointX >= 0 && pointX < m && pointY >= 0 && pointY < n) {
+            queue.push([pointX, pointY]);
+          }
+        }
 			}
-			let _j = j;
-			while (_j) {
-				sum += _j % 10;
-				_j = parseInt(_j / 10);
-			}
-			if (sum <= k) {
-
-			}
-		}
-	}
-	return cnt;
+			map.set(key, true);
+    }
+  }
+  return cnt;
 };
 
 console.log(movingCount(16, 8, 4));
