@@ -116,6 +116,8 @@
 
 - [编辑距离](./edit-distance.js)
 
+- [鸡蛋掉落](./super-egg-drop.js)
+
 ## 树
 
 - [二叉树的直径](./diameter-of-binary-tree.js)
