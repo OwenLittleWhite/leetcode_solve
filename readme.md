@@ -84,6 +84,8 @@
 
 - [机器人的运动范围](./ji-qi-ren-de-yun-dong-fan-wei-lcof.js)
 
+- [01 矩阵](./01-matrix.js)
+
 ## 深度优先算法
 
 - [岛屿的最大面积](./max-area-of-island.js)
