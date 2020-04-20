@@ -86,6 +86,8 @@
 
 - [01 矩阵](./01-matrix.js)
 
+- [岛屿数量](./number-of-islands.js)
+
 ## 深度优先算法
 
 - [岛屿的最大面积](./max-area-of-island.js)
