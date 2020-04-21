@@ -112,6 +112,8 @@
 
 - [交点](./intersection-lcci.js)
 
+- [统计「优美子数组」](./count-number-of-nice-subarrays.js)
+
 ## 动态规划
 
 - [零钱兑换](./coin-change.js)
