@@ -130,6 +130,7 @@
 
 - [二叉树的直径](./diameter-of-binary-tree.js)
 - [单词的压缩编码](./short-encoding-of-words.js)
+- [ 二叉树的右视图](./binary-tree-right-side-view.js)
 
 ## 堆
 
