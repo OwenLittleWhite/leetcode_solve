@@ -126,6 +126,8 @@
 
 - [鸡蛋掉落](./super-egg-drop.js)
 
+- [面试题 08.11. 硬币](./coin-lcci.js)
+
 ## 树
 
 - [二叉树的直径](./diameter-of-binary-tree.js)
