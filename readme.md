@@ -76,6 +76,8 @@
 
 - [排序数组](./sort-an-array.js)
 
+- [数组中的逆序对](./shu-zu-zhong-de-ni-xu-dui-lcof.js)
+
 ## 广度优先算法
 
 - [腐烂的橘子](./rotting-oranges.js)
