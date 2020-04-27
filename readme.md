@@ -18,6 +18,8 @@
 
 - [有效括号的嵌套深度](./maximum-nesting-depth-of-two-valid-parentheses-strings.js)
 
+- [搜索旋转排序树组](./search-in-rotated-sorted-array.js)
+
 ## 回溯算法
 
 - [组合总和](./combination-sum.js)
