@@ -20,6 +20,8 @@
 
 - [搜索旋转排序树组](./search-in-rotated-sorted-array.js)
 
+- [山脉数组中查找目标值](./find-in-mountain-array.js)
+
 ## 回溯算法
 
 - [组合总和](./combination-sum.js)
@@ -98,9 +100,9 @@
 
 ## 数学
 
-- [分糖果2](./distribute-candies-to-people.js)
+- [分糖果 2](./distribute-candies-to-people.js)
 
-- [和为s的连续正数序列](./he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.js)
+- [和为 s 的连续正数序列](./he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.js)
 
 - [字符串的最大公因子](./greatest-common-divisor-of-strings.js)
 
@@ -140,16 +142,16 @@
 
 ## 堆
 
-- [最小的k个数](./zui-xiao-de-kge-shu-lcof.js)
+- [最小的 k 个数](./zui-xiao-de-kge-shu-lcof.js)
 
 ## 链表
 
 - [链表的中间结点](./middle-of-the-linked-list.js)
 
-- [两数相加II](./add-two-numbers-ii.js)
+- [两数相加 II](./add-two-numbers-ii.js)
 
 ## 设计
 
-- [lfu缓存](./lfu-cache.js)
+- [lfu 缓存](./lfu-cache.js)
 
 - [设计推特](./design-twitter.js)
