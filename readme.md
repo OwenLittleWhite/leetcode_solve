@@ -12,6 +12,8 @@
 
 - [最长回文串](./longest-palindrome.js)
 
+- [快乐数](./happy-number.js)
+
 ## 二分法
 
 - [搜索插入位置](./search-insert-position.js)
