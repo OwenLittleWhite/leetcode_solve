@@ -70,6 +70,8 @@
 
 - [合并排序的数组](./sorted-merge-lcci.js)
 
+- [无重复字符的最长子串](./longest-substring-without-repeating-characters.js)
+
 ## 栈
 
 - [最小栈](./min-stack.js)
@@ -157,3 +159,7 @@
 - [lfu 缓存](./lfu-cache.js)
 
 - [设计推特](./design-twitter.js)
+
+## 贪心算法
+
+- [跳跃游戏 II](./jump-game-ii.js)
