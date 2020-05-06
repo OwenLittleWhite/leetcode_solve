@@ -138,6 +138,8 @@
 
 - [面试题 08.11. 硬币](./coin-lcci.js)
 
+- [最低票价](./minimum-cost-for-tickets.js)
+
 ## 树
 
 - [二叉树的直径](./diameter-of-binary-tree.js)
