@@ -4,6 +4,8 @@
 
 - [接雨水](./trapping-rain-water.js)
 
+- [验证回文串II](./valid-palindrome-ii.js)
+
 ## 哈希
 
 - [有效的数独](./valid-sudoku.js)
